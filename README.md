@@ -8,15 +8,16 @@
 
 
 ## 1. 레파지토리 생성
-- [https://classroom.github.com/a/r_quqgd5](https://classroom.github.com/a/r_quqgd5)
+- https://classroom.github.com/a/bgZU8qHN
 - 위 Github Classroom 링크에 접속해 본인 조의 github 레파지토리를 생성하세요.
-<img src="https://github.com/user-attachments/assets/deccbc01-9c36-4757-be92-b8ff5c40ec26" width="600px" alt="Classroom에서 team 생성" />
+<img width="1175" height="671" alt="image" src="https://github.com/user-attachments/assets/245f0f5b-fae4-40b3-b835-1477eb660c53" />
 
 - 레파지토리 생성 시 팀 이름은 `{연도}-TEAM-{조번호}` 형식으로 생성하세요.
-- 예를 들어, 2025년도 3조의 팀명은 `2025-TEAM-03` 입니다.
-- 이 경우 `PNUSW-2025-TEAM-03`이라는 이름으로 레포지토리가 생성됩니다.
+- 예를 들어, 2026년도 3조의 팀명은 `2026-TEAM-03` 입니다.
+- 이 경우 `2026-pnu-sw-hackathon-2026-team-00`이라는 이름으로 레포지토리가 생성됩니다.
+- 자신의 팀이 이미 생성된 경우, 아래 이미지와 같이 생성된 팀에 참여하시면 됩니다.
+<img width="836" height="650" alt="image" src="https://github.com/user-attachments/assets/25f2850f-983d-4c0b-9f86-4ce61761b45c" />
 <br/>
-
 
 ## 2. 레파지토리 구성
 - 레파지토리 내에 `README.md` 파일 생성하고 아래의 가이드라인과 작성팁을 참고하여 파일을 작성하세요.
@@ -227,20 +228,3 @@ __double underscores__ <br />
 <br/>
 ![부산대학교 소프트웨어융합교육원](https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/884154bb-28f6-4498-9f64-a8a878972951, "부산대학교 소프트웨어융합교육원")
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
