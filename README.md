@@ -8,16 +8,18 @@
 
 
 ## 1. 레파지토리 생성
-- https://classroom.github.com/a/bgZU8qHN
+- https://classroom.github.com/a/VDJSvmVC
 - 위 Github Classroom 링크에 접속해 본인 조의 github 레파지토리를 생성하세요.
-<img width="1175" height="671" alt="image" src="https://github.com/user-attachments/assets/245f0f5b-fae4-40b3-b835-1477eb660c53" />
+<img width="1125" height="790" alt="image" src="https://github.com/user-attachments/assets/7377b191-d36a-43bd-ba16-9742be532ecf" />
 
-- 레파지토리 생성 시 팀 이름은 `{연도}-TEAM-{조번호}` 형식으로 생성하세요.
-- 예를 들어, 2026년도 3조의 팀명은 `2026-TEAM-03` 입니다.
-- 이 경우 `2026-pnu-sw-hackathon-2026-team-00`이라는 이름으로 레포지토리가 생성됩니다.
-- 자신의 팀이 이미 생성된 경우, 아래 이미지와 같이 생성된 팀에 참여하시면 됩니다.
-<img width="836" height="650" alt="image" src="https://github.com/user-attachments/assets/25f2850f-983d-4c0b-9f86-4ce61761b45c" />
+
+- 레파지토리 생성 시 팀 이름은 `{트랙}-{팀번호}-{팀명}` 형식으로 생성하세요.
+- 트랙 란에는 융합트랙은 'A', 지정과제 트랙은 'B', 창업트랙은 'C'를 기입합니다.
+- 예를 들어, 융합트랙 3조의 팀명은 `A-03-ExampleTeamName` 입니다.
+- 이 경우 `PNUAI-A-03-ExampleTeamName`이라는 이름으로 레포지토리가 생성됩니다.
 <br/>
+
+
 
 ## 2. 레파지토리 구성
 - 레파지토리 내에 `README.md` 파일 생성하고 아래의 가이드라인과 작성팁을 참고하여 파일을 작성하세요.
@@ -187,19 +189,19 @@ int main(void){
 단어 주석 "`" 이용
 "`Hello world`"
 
-* 큰 따움표(") 없이 사용하세요.
+* 큰 따옴표(") 없이 사용하세요.
 ``` 
 <br />
 
 ### 4.5. 링크 Link
 ```
 [Title](link)
-[부산대 소프트웨어융합교육원](https://swedu.pusan.ac.kr/swedu/index.do)
+[부산대학교 AI융합교육원](https://swedu.pusan.ac.kr/swedu/index.do)
 
 <link>
 <https://swedu.pusan.ac.kr>
 ``` 
-[부산대 소프트웨어융합교육원](https://swedu.pusan.ac.kr)
+[부산대학교 AI융합교육원](https://swedu.pusan.ac.kr)
 
 <https://swedu.pusan.ac.kr>  
 <br />
@@ -210,7 +212,8 @@ int main(void){
 _single underscores_
 **double asterisks**
 __double underscores__
-~~cancelline~~
+~~cancelline~~<img width="1994" height="253" alt="KakaoTalk_20260520_160616446_01" src="https://github.com/user-attachments/assets/9269b8bd-7539-4120-a97c-705f96fd5e71" />
+
 ```
 *single asterisks* <br />
 _single underscores_ <br />
@@ -224,7 +227,7 @@ __double underscores__ <br />
 <img src="/path/to/img.jpg" width="600px" title="Title" alt="Alt text"></img>
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-<img src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/be7beb64-490f-4480-b121-f25cde7f2a8d" width="600px" title="부산대학교 소프트웨어융합교육원" alt="부산대학교 소프트웨어융합교육원"></img>
+<img src="https://github.com/user-attachments/assets/3c717ecf-6e22-487b-ae12-72d11e8af5ff" width="600px" title="부산대학교 AI융합교육원" alt="부산대학교 AI융합교육원"></img>
 <br/>
-![부산대학교 소프트웨어융합교육원](https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/884154bb-28f6-4498-9f64-a8a878972951, "부산대학교 소프트웨어융합교육원")
+![부산대학교 AI융합교육원](https://github.com/user-attachments/assets/3c717ecf-6e22-487b-ae12-72d11e8af5ff "부산대학교 AI융합교육원")
 <br/>
